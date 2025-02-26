@@ -1,0 +1,5 @@
+SFML
+build/*
+!build/output
+build/output/*
+!build/output/bin
